@@ -1,0 +1,12 @@
+[package]
+name = "rate-limiter-rs"
+version = "0.1.0"
+edition = "2021"
+description = "Rate limiting algorithms in Rust: token bucket, sliding window, fixed window, and leaky bucket"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/SuperInstance/rate-limiter-rs"
+keywords = ["rate-limiting", "token-bucket", "sliding-window", "throttle"]
+categories = ["algorithms", "network-programming", "web-programming"]
+readme = "README.md"
+
+[dependencies]
